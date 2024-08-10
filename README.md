@@ -26,13 +26,13 @@
 
 ## Both containers are up and running.
 
-##To view the running containers, use the command: `docker ps -a`.
+## To view the running containers, use the command: `docker ps -a`.
 
 ![image](https://github.com/user-attachments/assets/e59d785c-d874-4667-b39c-5e1ef23d39d5)
 
  
 
-## "Now, I will open my local web browser and enter my IP address along with the port number to access phpMyAdmin."
+## "Now, I will open my local web browser and enter my IP address along with the port number to access phpMyAdmin, and login my password."
 
 ![image](https://github.com/user-attachments/assets/5d9fa9d1-cc53-4b6b-a64c-0929659f02a7)
 
@@ -40,7 +40,7 @@
 
 
  
-##Now, I am importing the `Ziocode` database from my localhost to my VM's database server using phpMyAdmin.
+## Now, I am importing the `Ziocode` database from my localhost to my VM's database server using phpMyAdmin.
 
 
 ![image](https://github.com/user-attachments/assets/bbceb41a-3008-42a2-a2f3-62b338ac7635)
@@ -49,7 +49,7 @@
 
 
 
-##This screenshot demonstrates my access to the ZIP code database through a browser in my host OS, alongside an open terminal in my VM showing the output of `ifconfig` and `docker ps -a`, with relevant IP addresses and ports highlighted."
+## This screenshot demonstrates my access to the ZIP code database through a browser in my host OS, alongside an open terminal in my VM showing the output of `ifconfig` and `docker ps -a`, with relevant IP addresses and ports highlighted."
 
 
 ![image](https://github.com/user-attachments/assets/d2bef1c0-d7c0-4e34-8f1c-a293ccc261e6)
