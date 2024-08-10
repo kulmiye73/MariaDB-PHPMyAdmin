@@ -52,6 +52,7 @@
 ##This screenshot demonstrates my access to the ZIP code database through a browser in my host OS, alongside an open terminal in my VM showing the output of `ifconfig` and `docker ps -a`, with relevant IP addresses and ports highlighted."
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d2bef1c0-d7c0-4e34-8f1c-a293ccc261e6)
+
 
 
