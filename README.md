@@ -3,7 +3,7 @@
 # How to set up a MariaDB server and connect phpMyAdmin on a Docker machine running Debian Linux:
 
 
-##I am installing MariaDB, naming the instance ‘mar-Abdi,’ publishing port 3306:3306, and setting the password to ‘Abdi.’
+## I am installing MariaDB, naming the instance ‘mar-Abdi,’ publishing port 3306:3306, and setting the password to ‘Abdi.’
 
 
 ![image](https://github.com/user-attachments/assets/0b014da1-8854-4c80-ab58-03173720861f)
@@ -17,7 +17,7 @@
 
  
 
-##Both containers are installed in Docker, and I have started both the `mar-Abdi` and `myadmin containers.
+## Both containers are installed in Docker, and I have started both the `mar-Abdi` and `myadmin containers.
 
 
 
